@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451827717497",
+    "project_id": "bossbod-96f79",
+    "storage_bucket": "bossbod-96f79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451827717497:android:dfccfb1029f53e2434cba8",
+        "android_client_info": {
+          "package_name": "com.bossbod.bossbod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyNj-XPsXiB7D31A8jvieWggmLxmak4h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

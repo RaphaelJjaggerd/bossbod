@@ -4278,8 +4278,12 @@ int mipmap ic_avatar 0x7f0e0003
 int mipmap ic_launcher 0x7f0e0004
 int mipmap ic_launcher_foreground 0x7f0e0005
 int mipmap ic_launcher_round 0x7f0e0006
-int mipmap placeholder 0x7f0e0007
-int mipmap search 0x7f0e0008
+int mipmap ic_launcher_square 0x7f0e0007
+int mipmap ic_launcher_square_background 0x7f0e0008
+int mipmap ic_launcher_square_foreground 0x7f0e0009
+int mipmap ic_launcher_square_monochrome 0x7f0e000a
+int mipmap placeholder 0x7f0e000b
+int mipmap search 0x7f0e000c
 int raw cheer 0x7f0f0000
 int raw com_android_billingclient_heterodyne_info 0x7f0f0001
 int raw com_android_billingclient_registration_info 0x7f0f0002

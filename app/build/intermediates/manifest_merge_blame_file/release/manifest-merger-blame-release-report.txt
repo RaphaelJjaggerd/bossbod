@@ -115,16 +115,16 @@
 61        android:extractNativeLibs="true"
 62        android:fullBackupContent="false"
 62-->C:\Users\user\.projects\Mobile\bossbod\app\src\main\AndroidManifest.xml:21:9-42
-63        android:icon="@mipmap/ic_launcher_round"
-63-->C:\Users\user\.projects\Mobile\bossbod\app\src\main\AndroidManifest.xml:22:9-49
+63        android:icon="@mipmap/ic_launcher_square"
+63-->C:\Users\user\.projects\Mobile\bossbod\app\src\main\AndroidManifest.xml:22:9-50
 64        android:label="@string/app_name"
 64-->C:\Users\user\.projects\Mobile\bossbod\app\src\main\AndroidManifest.xml:23:9-41
 65        android:networkSecurityConfig="@xml/network_security_config"
 65-->C:\Users\user\.projects\Mobile\bossbod\app\src\main\AndroidManifest.xml:24:9-69
 66        android:requestLegacyExternalStorage="true"
 66-->C:\Users\user\.projects\Mobile\bossbod\app\src\main\AndroidManifest.xml:25:9-52
-67        android:roundIcon="@mipmap/ic_launcher_round"
-67-->C:\Users\user\.projects\Mobile\bossbod\app\src\main\AndroidManifest.xml:26:9-54
+67        android:roundIcon="@mipmap/ic_launcher_square"
+67-->C:\Users\user\.projects\Mobile\bossbod\app\src\main\AndroidManifest.xml:26:9-55
 68        android:supportsRtl="false"
 68-->C:\Users\user\.projects\Mobile\bossbod\app\src\main\AndroidManifest.xml:27:9-36
 69        android:theme="@style/AppThemeNoActionbar"

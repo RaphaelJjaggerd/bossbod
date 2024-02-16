@@ -333,9 +333,9 @@ MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\
 	tools:ignore
 		ADDED from C:\Users\user\.projects\Mobile\bossbod\app\src\main\AndroidManifest.xml:30:9-48
 	android:roundIcon
-		ADDED from C:\Users\user\.projects\Mobile\bossbod\app\src\main\AndroidManifest.xml:26:9-54
+		ADDED from C:\Users\user\.projects\Mobile\bossbod\app\src\main\AndroidManifest.xml:26:9-55
 	android:icon
-		ADDED from C:\Users\user\.projects\Mobile\bossbod\app\src\main\AndroidManifest.xml:22:9-49
+		ADDED from C:\Users\user\.projects\Mobile\bossbod\app\src\main\AndroidManifest.xml:22:9-50
 	android:networkSecurityConfig
 		ADDED from C:\Users\user\.projects\Mobile\bossbod\app\src\main\AndroidManifest.xml:24:9-69
 	android:supportsRtl
